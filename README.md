@@ -2,8 +2,6 @@
 
 ## Product perspective
 
----
-
 The EEE online community database system stores the following information:<br>
 
 - #### Student personal information
